@@ -2,7 +2,7 @@
   
 # step 0: retrieve from $1 and build NER inference data set.
 
-tokenizedfolder=results/ner-inputs/   #/local/liqizhao/Twitter_Scraper/covid_uci_filtered/
+tokenizedfolder=results/ner-inputs/   
 nerdataset=results/ner-inputs/
 mapfile=data/maps/us_cities_states_counties.csv
 mapdict=data/maps/state_dict.json
